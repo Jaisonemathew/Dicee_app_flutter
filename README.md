@@ -2,6 +2,7 @@
 
 
 # Dicee 🎲
+note:Migrated to support Android embedding v2
 
 ## Our Goal
 
